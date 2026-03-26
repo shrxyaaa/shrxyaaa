@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer at BNY | Backend Engineer | Distributed Systems Enthusiast</h3>
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://github.com/shrxyaaa/shrxyaaa/blob/main/HelloWorld.gif">
+  <img alt="Coding" width="200" src="https://github.com/shrxyaaa/shrxyaaa/blob/main/HelloWorld.gif">
 </p>
 
 - 🏦 **Software Developer at BNY** – specializing in scalable backend architectures and secure financial systems.
@@ -41,10 +41,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shrxyaaa&show_icons=true&theme=radical" alt="shrxyaaa" />
-</p>
 
 "Believe you can and you're halfway there." ✨
