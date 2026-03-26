@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer at BNY | Backend Engineer | Distributed Systems Enthusiast</h3>
 
 <p align="center">
-  <img alt="Coding" width="200" src="https://github.com/shrxyaaa/shrxyaaa/blob/main/HelloWorld.gif">
+  <img alt="Coding" width="400" src="https://github.com/shrxyaaa/shrxyaaa/blob/main/HelloWorld.gif">
 </p>
 
 - 🏦 **Software Developer at BNY** – specializing in scalable backend architectures and secure financial systems.
